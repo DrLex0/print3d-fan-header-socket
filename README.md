@@ -1,5 +1,5 @@
 # 3 or 4 pin fan header socket
-*3D printable connector for 3- or 4-pin fan connectors*
+*3D printable connector for 3- or 4-pin computer fan plugs*
 
 ### License
 [Creative Commons - Attribution](https://creativecommons.org/licenses/by/4.0/)
